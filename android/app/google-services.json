@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106465145786",
+    "project_id": "fire-prac-002",
+    "storage_bucket": "fire-prac-002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106465145786:android:7c1056f20b870848ca2383",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_v74rmjJqlXNbxFQ6VXKTn8P3jH21h2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
